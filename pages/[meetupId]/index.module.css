@@ -1,0 +1,9 @@
+.h1{
+    text-align: center;
+}
+
+
+.actions{
+    display: flex;
+    justify-content: space-around;
+}
