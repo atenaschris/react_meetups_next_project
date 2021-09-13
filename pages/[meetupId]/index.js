@@ -141,6 +141,7 @@ export async function getStaticProps(context) {
     props: {
       singlemeetup: formattedSelectedMeetup,
     },
+    revalidate:1
   };
 }
 
